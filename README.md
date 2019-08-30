@@ -1,10 +1,14 @@
 # Flow-Motion-Depth
 
-This is the project page of the paper **"Flow-Motion and Depth Network for Monocular Stereo and Beyond''**. This project page contians:
+This is the project page of the paper **"Flow-Motion and Depth Network for Monocular Stereo and Beyond''**.
+
+This project page contians:
 
 * the implementation of the method,
 
 * the GTA-SfM tools and generated dataset.
+
+All components will be open source once the paper is accepted.
 
 ## The proposed method
 
