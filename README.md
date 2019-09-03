@@ -20,7 +20,7 @@ In this work we propose a method that sloves monocular stereo and can further fu
 
 ## The proposed dataset and tools
 
-Training and evaluating neural networks require large-scale high-quality data. Different from widely dataset from [DeMoN](https://github.com/lmb-freiburg/demon), we propose to render the dataset in GTA5 as a supplementary. A similiar data MVS-Synth is proposed in [DeepMVS](https://phuang17.github.io/DeepMVS/index.html), but cameras in the MVS-Synth dataset are usually located at the same places with small translations. On the other hand, the proposed GTA-SfM dataset contains images with much larger view angle changes which is more close to structure-from-motion (SfM) applications. Below the some sample comparision of the proposed GTA-SfM (left) and MVS-Synth (right).
+Training and evaluating neural networks require large-scale high-quality data. Different from the widely used dataset from [DeMoN](https://github.com/lmb-freiburg/demon), we propose to render the dataset in GTA5 as a supplementary. A similiar data, MVS-Synth, is proposed in [DeepMVS](https://phuang17.github.io/DeepMVS/index.html). Cameras in the MVS-Synth dataset usually moves in small translations. On the other hand, the proposed GTA-SfM dataset contains images with much larger view angle changes which is more close to structure-from-motion (SfM) applications. Below is the comparision of the proposed GTA-SfM (left) and MVS-Synth (right).
 
 <p float="left" align="center">
   <img src="fig/gta.gif" title="GTA-SfM dataset" width = "320" height="256"/>
