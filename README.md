@@ -1,6 +1,6 @@
 # Flow-Motion-Depth
 
-This is the project page of the paper **"Flow-Motion and Depth Network for Monocular Stereo and Beyond''** [Paper Link](https://arxiv.org/abs/1909.05452).
+This is the project page of the paper **"Flow-Motion and Depth Network for Monocular Stereo and Beyond''** [Paper Link](https://arxiv.org/abs/1909.05452). RAL 2019 & to be presented on ICRA 2020.
 
 This project page contians:
 
@@ -26,3 +26,7 @@ Training and evaluating neural networks require large-scale high-quality data. D
   <img src="fig/gta.gif" title="GTA-SfM dataset" width = "320" height="256"/>
   <img src="fig/mvs.gif" title="MVS-Synth" width = "320" height="256" />
 </p>
+
+* Extracted dataset
+
+Please visit the ```extracted_dataset``` folder for more details.
