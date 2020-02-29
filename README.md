@@ -18,6 +18,10 @@ In this work we propose a method that sloves monocular stereo and can further fu
 <img src="fig/input_output.png" alt="input_output" width = "640" height = "400">
 </p>
 
+* Code
+
+Here, we provide the code for the understanding of the paper. Following BANet, LS-Net, the trained models are not open sourced. Please go to ```flow-motion-depth``` for more details.
+
 ## The proposed dataset and tools
 
 Training and evaluating neural networks require large-scale high-quality data. Different from the widely used dataset from [DeMoN](https://github.com/lmb-freiburg/demon), we propose to render the dataset in GTA5 as a supplementary. A similiar data, MVS-Synth, is proposed in [DeepMVS](https://phuang17.github.io/DeepMVS/index.html). Cameras in the MVS-Synth dataset usually moves in small translations. On the other hand, the proposed GTA-SfM dataset contains images with much larger view angle changes which is more close to structure-from-motion (SfM) applications. Below is the comparision of the proposed GTA-SfM (left) and MVS-Synth (right).
