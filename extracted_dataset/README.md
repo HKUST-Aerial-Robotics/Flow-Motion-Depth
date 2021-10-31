@@ -16,6 +16,10 @@ Here, we publish the extracted dataset from GTA5.
 
 ## Data link
 
+UPDATE: The dropbox link has failed beacuse of the large traffic, we provide BaiDuPan link:
+Train link: ```链接: https://pan.baidu.com/s/1VLShTgo-PNUXXEFmmGtw7w 提取码: 9uca```
+Test Link: ```链接: https://pan.baidu.com/s/12CxmTM61cFa1MrfwWCNiWg 提取码: m7sr```
+
 You can download the dataset via Dropbox: [train](https://www.dropbox.com/sh/qthq0sume2e618n/AADc2_V_w1WZhxkhATMxq_xSa?dl=0), [test](https://www.dropbox.com/s/2k4tbmuragjg5bk/test.tar?dl=0). We also provide a sample sequence for you: [sample](https://www.dropbox.com/s/71mq9inzqg254u3/20190124_203632.hdf5?dl=0).
 
 ## Parser
